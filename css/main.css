@@ -799,7 +799,7 @@ color: #666666;
     line-height: 176.9%;
     text-align:justify;
 }
-.button {
+.button1 {
   background-color: #fff;
   color: #000;
   padding: 16px 50px;
@@ -813,7 +813,7 @@ color: #666666;
     margin-left:390px;  
   border: 2px solid #2099ea;
 }
-.button:hover {
+.button1:hover {
   background-color: #2099ea;
   color: white;
 }
